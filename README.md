@@ -3,7 +3,6 @@
 A lightweight World of Warcraft addon that automatically changes your outfit when switching specializations.
 
 Created by **Armir** of **Area 52**.  
-Inspired by the original **Outfitter** addon by Rhenyra.
 
 ---
 
@@ -48,6 +47,7 @@ Enable with:
 
 - **Armir** — Creator
 - **Rhenyra** — Inspiration from Outfitter addon
+- **Sheckter and Rellananas** — initial testing and feedback
 
 ---
 
