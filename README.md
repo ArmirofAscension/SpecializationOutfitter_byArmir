@@ -17,16 +17,6 @@ Inspired by the original **Outfitter** addon by Rhenyra.
 
 ---
 
-## Commands
-
-### Open the addon UI
-
-```lua
-/specfit
-```
-
----
-
 ## How It Works
 
 1. Create outfits using the default Ascension wardrobe system
