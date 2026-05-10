@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Specialization Outfitter
+## Version: 1.0
+## Notes: Changes our outfit based on your specialization. Type /specfit to start.
+## Author: Mateusz Armir
+## DefaultState: enabled
+## Dependencies:
+## SavedVariables: SpecializationOutfitterPublicDB
+## SavedVariablesPerCharacter: SpecializationOutfitterPrivateDB
+SpecializationOutfitter_byArmir.lua
