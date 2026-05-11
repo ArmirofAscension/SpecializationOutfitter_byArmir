@@ -204,6 +204,9 @@ function ApplyOutfitByName(outfitEntry)
 		DevPrint("Successfully applied outfit: " .. OutfitName)
 	else
 		DevPrint("Could not apply outfit. Reason: " .. tostring(reason))
+
+		print("|cFFFF0000Specialization Outfit Error:|r |cFFFFFFFF" .. tostring("wardrobe error") .. "|r")
+		print("|cFFFF0000Reason:|r |cFFFFFFFF" .. tostring(reason) .. "|r")
 	end
 end
 
