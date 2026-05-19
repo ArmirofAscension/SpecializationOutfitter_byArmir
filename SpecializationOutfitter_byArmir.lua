@@ -320,6 +320,7 @@ function CreateMainFrame()
 	mainFrame:SetScript("OnDragStart", mainFrame.StartMoving)
 	mainFrame:SetScript("OnDragStop", mainFrame.StopMovingOrSizing)
 	mainFrame:SetClampedToScreen(true)
+	table.insert(UISpecialFrames, "SpecializationOutfitterFrame") -- Esc Support
 	mainFrame:Hide()
 	
 	-- Title
